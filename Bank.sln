@@ -5,7 +5,7 @@ VisualStudioVersion = 17.14.36429.23 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bank", "Bank\Bank.csproj", "{E00602F5-484A-4607-8846-A437C35BB7C5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankTests", "BankTests\BankTests.csproj", "{63EDE893-F3F6-47AF-A067-2400D2F013B1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankTestsDebit", "BankTests\BankTestsDebit.csproj", "{63EDE893-F3F6-47AF-A067-2400D2F013B1}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankTestsCredit", "BankTestsCredit\BankTestsCredit.csproj", "{1C2D28CF-66D7-43E3-9465-6AD12937A7CF}"
 EndProject

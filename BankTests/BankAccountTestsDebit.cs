@@ -2,10 +2,10 @@
 using System;
 using BankAccountNS;
 
-namespace BankTests
+namespace BankTestsDebit
 {
     [TestClass]
-    public class BankAccountTests
+    public class BankAccountTestsDebit
     {
         [TestMethod]
         public void Debit_WithValidAmount_UpdatesBalance()
