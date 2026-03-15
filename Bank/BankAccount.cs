@@ -9,7 +9,7 @@ namespace BankAccountNS
     /// <summary>
     /// Банковский счет клиента
     /// </summary>
-    public class BankAccount
+    public class BankAccount 
     {
         /// <summary>
         /// Имя владельца
