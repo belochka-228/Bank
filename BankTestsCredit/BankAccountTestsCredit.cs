@@ -9,7 +9,7 @@ namespace BankTestsCredit
     {
         /// <summary>
         /// Пополнение на валидную сумму
-        /// </summary>
+        /// </summary> 
         [TestMethod]
         public void Credit_WithValidAmount_UpdatesBalance()
         {
